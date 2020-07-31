@@ -1,4 +1,4 @@
-module github.com/sunshinexcode/golang_mod_demo
+module github.com/sunshinexcode/golang_mod_demo/v2
 
 go 1.14
 
